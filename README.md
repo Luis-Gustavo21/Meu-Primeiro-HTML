@@ -1,4 +1,4 @@
-# 🌐 Primeiros Passos com HTML
+# 🌐 Primeiros Passos com HTML - Parte 1
 
 Este projeto é um arquivo HTML simples criado para aprender os conceitos básicos de HTML.
 
